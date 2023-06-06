@@ -1,0 +1,15 @@
+Grading System in PHP
+   
+ADMIN LOGIN
+Username : admin
+Password : admin123
+
+USER LOGIN
+Username : student
+Password : 1234
+
+ 
+
+DON'T FORGET TO CREATE A DATABASE NAMING "grading " AND IMPORT THE SQL FILE TO RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+ 

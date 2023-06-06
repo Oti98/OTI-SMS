@@ -1,0 +1,10 @@
+ <?php
+            $sql = mysqli_query($conn,"SELECT * FROM student_info where LRN_NO = '".$_SESSION['ID']."'");
+            $row = mysqli_fetch_assoc($sql);
+            if($row['FIRSTNAME'] == '$FISRTNAME'){
+                include 'sidebar_students.php';
+            } 
+
+
+
+            ?>
